@@ -2,7 +2,7 @@
 ## 1. Start of a Match  
 1.1 A coin flip shall precede the start of the match. The team that wins the flip has the choice of table side. The team that loses the flip has the remaining option.
 
-1.2 Once a team has chosen either the table side or the first serve, they may not change their decision.
+1.2 Once a team has chosen either the table side, they may not change their decision.
 
 1.3 In the event of the loser's bracket winner beating the winner's bracket team in the first match, the second match will be started in the same manner as a regular match with the coin flip, etc.
 
@@ -19,10 +19,10 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.1 If the server has tapped the ball, and the opposing team is holding their handles, the opposing team shall be deemed to be ready for play (unless they have specially stated before the ball hits the playing surface that they are not ready yet).
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.2 If the ball is incorrectly served, but the server has not violated any part of these rules, the ball is considered in play. In particular, the player may not reach into the play area to re-serve the ball (see 16).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.2 If the ball is incorrectly served, but the server has not violated any part of these rules, the ball is considered in play. In particular, the player may not reach into the play area to re-serve the ball (see 11).
    
 ## 3. Ball in Play  
-Once a ball is put into play by the server (see 2), it shall remain in play until the ball is hit off the table, a dead ball is declared, time out is called, or a point is scored.
+Once a ball is put into play by the server (see 2), it shall remain in play until the ball is hit off the table, a dead ball is declared, or a point is scored.
 
 ## 4. Ball Off the Table  
 If the ball should leave the playing area and strike the scoring marker, ash trays, top of the side rails, cabinet ends, or any object that is not a part of the table, the ball shall be declared off the table. The ball should be put back into play with a serve by any team.
