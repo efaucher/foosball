@@ -59,19 +59,20 @@ In any doubles event, each player may play only the two rods normally designated
 
 8.2 Once a team has switched positions, they may not switch back until after the ball has been put back into play or another time out has been called.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.1 A team is considered to have switched positions once both players are in their respective places facing the table.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2.1 A team is considered to have switched positions once both players are in their respective places facing the table.
 
 8.3 Illegally switching positions while the ball is in play will be judged a distraction.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.3.1 In any doubles event any player placing their hand on any rod normally designated as one played by their partner while the ball is in play shall be judged as a distraction violations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.3.1 In any doubles event any player placing their hand on any rod normally designated as one played by their partner while the ball is in play shall be judged as a distraction violations.
 
 ## 9. Spinning the Rods
 Spinning of the rods is illegal. Spinning is defined as the rotation of any soccer figure more than 360 degrees before or after striking the ball. In calculating the 360 degrees, you do not add the degrees spun prior to striking the ball to the degrees spun after striking the ball.
 
 9.1 A ball which is advanced by an illegal spin is replayed as follows: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the ball goes in the goal, then it will not be counted as a point and will be served back. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the ball does not go in the goal, the opposing team will have the option of continuing play from the current position or re-serving the ball.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*If the ball goes in the goal,* then it will not be counted as a point and will be served back.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*If the ball does not go in the goal,* the opposing team will have the option of continuing play from the current position or re-serving the ball.
 
 9.2 Spinning of a rod which does not strike the ball does not constitute an illegal spin.
 
@@ -84,9 +85,9 @@ Any jarring, sliding, or lifting of the table shall be illegal. Whether or not t
 
 10.1 The penalty for violation of this rule:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First offense - the opposing team has the option of continuing play from the current position, continuing play from the point of infraction, or re-serving the ball. If an illegal jar causes the player to lose possession of the ball from a rod, play may be continued from that rod. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*First offense* - the opposing team has the option of continuing play from the current position, continuing play from the point of infraction, or re-serving the ball. If an illegal jar causes the player to lose possession of the ball from a rod, play may be continued from that rod.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Subsequent violations - Technical foul. After the technical shot, the non offending team continues to have the options listed under First Offense (10.1).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Subsequent violations* - Technical foul. After the technical shot, the non offending team continues to have the options listed under First Offense (10.1).
         
 10.2 Touching or coming into contact with your opponent's rods in any way shall be penalized exactly like jarring, sliding, or lifting.
 
@@ -101,17 +102,17 @@ It is illegal for a player to reach into the play area while the ball is in play
 
 11.3 A ball which has gone dead is considered out of play. The ball may be freely touched once permission has been granted by the official, or if no official is present, by the opposing team.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no penalty for touching the ball after it is dead, regardless of whether or not permission was given to touch the ball.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no penalty for touching the ball after it is dead, regardless of whether or not permission was given to touch the ball.
 
 11.4 A player may wipe shot marks off any part of the table while the ball is not in play. He does not need to ask permission of the opposing team.
 
 11.5 The penalty for violation of this rule is as follows:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the player has possession of the ball, and the ball is stopped - loss of possession to the opposing team.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*If the player has possession of the ball, and the ball is stopped* - loss of possession to the opposing team.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the ball is moving in the player's goal area behind the two-man rod - a point is scored for the opposing team, and the ball is re-served as if it had gone in the goal.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*If the ball is moving in the player's goal area behind the two-man rod* - a point is scored for the opposing team, and the ball is re-served as if it had gone in the goal.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any other case - technical foul. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Any other case* - technical foul. 
 
 # 12. Distractions
 Any movement or sound made away from the rod where the ball is in play may be judged as a distraction. No point made as a result of a distraction will count. If a player believes he is being distracted, it is his responsibility to call for an official.
