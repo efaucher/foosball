@@ -122,7 +122,7 @@ Any movement or sound made away from the rod where the ball is in play may be ju
 
 13.2 A match is considered a best of three games.
 
-13.3 Best of three matches shall be limited to 30 minutes from the time the match is started.
+13.3 Best of three matches shall be limited to 20 minutes from the time the match is started.
 
 13.4 If the specified time limit expires before the match has been completed, an official will announce to the players that a ten minute overtime period will begin at that time. If the overtime period ends before the match has been completed, the winner of the match shall be the player or team which has won the most games, or if the teams have an equal number of games, it shall be the team that has scored the most points in the game in progress, after the ball in play at this time that the overtime period expires has been scored. If the teams have won an equal number of games and scored an equal number of points after this ball has been scored, one more ball shall be played to determine the winner of the match.
 
