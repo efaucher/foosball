@@ -1,6 +1,6 @@
 # Rules for Foosball
  1. Start of a Match  
-   1.1 A coin flip shall precede the start of the match. The team that wins the flip has the choice of table side. The team that loses the flip has the remaining option.
+   1.1 A coin flip shall precede the start of the match. The team that wins the flip has the choice of table side. The team that loses the flip has the remaining option.  
    1.2 Once a team has chosen either the table side or the first serve, they may not change their decision.
 
 1.3 In the event of the loser's bracket winner beating the winner's bracket team in the first match, the second match will be started in the same manner as a regular match with the coin flip, etc.
