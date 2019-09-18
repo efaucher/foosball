@@ -9,8 +9,8 @@
     2. The play area shall be defined as the area above the playing surface to the height of the side boards of the cabinet.  
     2. The first player to touch the ball in the serve is called the serving player. No goal can be scored during the serve until another player figure from a rod other than the 5-man rod of the serving player has touched the ball.  
     2. The server must not serve the ball until he has the assurance that the opposing team is ready for play to begin. The server can signify that play is about to begin by tapping the ball on the side of the table.  
-      2. If the server has tapped the ball, and the opposing team is holding their handles, the opposing team shall be deemed to be ready for play (unless they have specially stated before the ball hits the playing surface that they are not ready yet).  
-	  2. If the ball is incorrectly served, but the server has not violated any part of these rules, the ball is considered in play. In particular, the player may not reach into the play area to re-serve the ball (see 16).  
+       2. If the server has tapped the ball, and the opposing team is holding their handles, the opposing team shall be deemed to be ready for play (unless they have specially stated before the ball hits the playing surface that they are not ready yet).  
+	   2. If the ball is incorrectly served, but the server has not violated any part of these rules, the ball is considered in play. In particular, the player may not reach into the play area to re-serve the ball (see 16).  
 3. Ball in Play  
    Once a ball is put into play by the server (see 2), it shall remain in play until the ball is hit off the table, a dead ball is declared, time out is called, or a point is scored.
 4. Ball Off the Table  
