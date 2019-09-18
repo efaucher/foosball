@@ -1,22 +1,21 @@
 # Rules for Foosball
-1. Start of a Match
-   1.1 A coin flip shall precede the start of the match. The team that wins the flip has the choice of table side. The team that loses the flip has the remaining option.
-   1.2 Once a team has chosen either the table side or the first serve, they may not change their decision.
-   1.3 In the event of the loser's bracket winner beating the winner's bracket team in the first match, the second match will be started in the same manner as a regular match with the coin flip, etc.
-   1.4 The match officially starts once the ball has been put into play.
-2. The Serve
-   2.1 A serve through the serving hole is used to put the ball into play at the start of the match, after a point is scored, after a ball leaves the table or if the ball is in play and is deemed unplayable.
-   2.2 The play area shall be defined as the area above the playing surface to the height of the side boards of the cabinet.
-   2.3 The first player to touch the ball in the serve is called the serving player. No goal can be scored during the serve until another player figure from a rod other than the 5-man rod of the serving player has touched the ball.
-   2.4 The server must not serve the ball until he has the assurance that the opposing team is ready for play to begin. The server can signify that play is about to begin by tapping the ball on the side of the table.
-      a) If the server has tapped the ball, and the opposing team is holding their handles, the opposing team shall be deemed to be ready for play (unless they have specially stated before the ball hits the playing surface that they are not ready yet).
-      b) If the ball is incorrectly served, but the server has not violated any part of these rules, the ball is considered in play. In particular, the player may not reach into the play area to re-serve the ball (see 16).
-3. Ball in Play  
-   Once a ball is put into play by the server (see 2), it shall remain in play until the ball is hit off the table, a dead ball is declared, time out is called, or a point is scored.
-4. Ball Off the Table  
-   If the ball should leave the playing area and strike the scoring marker, ash trays, top of the side rails, cabinet ends, or any object that is not a part of the table, the ball shall be declared off the table. The ball should be put back into play with a serve by any team.
-
-4.1 A ball entering the serving cup and then returning to the playfield is still considered "in play." 
+ 1. Start of a Match  
+    1.1 A coin flip shall precede the start of the match. The team that wins the flip has the choice of table side. The team that loses the flip has the remaining option.  
+    1.2 Once a team has chosen either the table side or the first serve, they may not change their decision.  
+    1.3 In the event of the loser's bracket winner beating the winner's bracket team in the first match, the second match will be started in the same manner as a regular match with the coin flip, etc.  
+    1.4 The match officially starts once the ball has been put into play.
+ 2. The Serve  
+    2.1 A serve through the serving hole is used to put the ball into play at the start of the match, after a point is scored, after a ball leaves the table or if the ball is in play and is deemed unplayable.  
+    2.2 The play area shall be defined as the area above the playing surface to the height of the side boards of the cabinet.  
+    2.3 The first player to touch the ball in the serve is called the serving player. No goal can be scored during the serve until another player figure from a rod other than the 5-man rod of the serving player has touched the ball.  
+    2.4 The server must not serve the ball until he has the assurance that the opposing team is ready for play to begin. The server can signify that play is about to begin by tapping the ball on the side of the table.  
+      *a) If the server has tapped the ball, and the opposing team is holding their handles, the opposing team shall be deemed to be ready for play (unless they have specially stated before the ball hits the playing surface that they are not ready yet).
+      *b) If the ball is incorrectly served, but the server has not violated any part of these rules, the ball is considered in play. In particular, the player may not reach into the play area to re-serve the ball (see 16).*
+ 3. Ball in Play  
+    Once a ball is put into play by the server (see 2), it shall remain in play until the ball is hit off the table, a dead ball is declared, time out is called, or a point is scored.
+ 4. Ball Off the Table  
+    If the ball should leave the playing area and strike the scoring marker, ash trays, top of the side rails, cabinet ends, or any object that is not a part of the table, the ball shall be declared off the table. The ball should be put back into play with a serve by any team.  
+	4.1 A ball entering the serving cup and then returning to the playfield is still considered "in play." 
 
 5. Dead Ball
 	A ball shall be declared a dead ball when it has completely stopped its motion and is not within reach of any player figure.
