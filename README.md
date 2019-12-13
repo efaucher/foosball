@@ -80,7 +80,7 @@ Spinning of the rods is illegal. Spinning is defined as the rotation of any socc
 
 9.4 Spinning of a rod away from the ball (when there is no possession) is not considered an illegal spin, but may be ruled as a distraction.
 
-# 10. Jarring
+## 10. Jarring
 Any jarring, sliding, or lifting of the table shall be illegal. Whether or not the table jarring is done intentionally is of no consequence. This call must be made by an official. It is not necessary for a player to lose the ball for jarring to be called on his opponent.
 
 10.1 The penalty for violation of this rule:
@@ -93,7 +93,7 @@ Any jarring, sliding, or lifting of the table shall be illegal. Whether or not t
 
 10.3 Jarring of the table may be called even if the ball is not in play. In particular, slamming the rod after the shot may be considered jarring.
 
-# 11. Reaching Into the Playing Area
+## 11. Reaching Into the Playing Area
 It is illegal for a player to reach into the play area while the ball is in play without first having permission from the opposing team, whether he touches the ball or not. However, whenever the opposing team grants a player permission to reach into the playing area, it is legal for the player to do so.
 
 11.1 A spinning ball is considered "in-play," even if it is not in reach of a player figure. It is illegal to reach into playing area to stop a spinning ball, even if done for an opponent.
@@ -114,10 +114,10 @@ It is illegal for a player to reach into the play area while the ball is in play
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Any other case* - technical foul. 
 
-# 12. Distractions
+## 12. Distractions
 Any movement or sound made away from the rod where the ball is in play may be judged as a distraction. No point made as a result of a distraction will count. If a player believes he is being distracted, it is his responsibility to call for an official.
 
-# 13. Match Time Limit
+## 13. Match Time Limit
 13.1 A game is considered the first team to five points.
 
 13.2 A match is considered a best of three games.
@@ -126,10 +126,10 @@ Any movement or sound made away from the rod where the ball is in play may be ju
 
 13.4 If the specified time limit expires before the match has been completed, an official will announce to the players that a ten minute overtime period will begin at that time. If the overtime period ends before the match has been completed, the winner of the match shall be the player or team which has won the most games, or if the teams have an equal number of games, it shall be the team that has scored the most points in the game in progress, after the ball in play at this time that the overtime period expires has been scored. If the teams have won an equal number of games and scored an equal number of points after this ball has been scored, one more ball shall be played to determine the winner of the match.
 
-# 14. Delay of Game
+## 14. Delay of Game
 Play shall be continuous, except during time outs. A delay of game penalty may only be called by an official.
 
-# 15. Forfeiture
+## 15. Forfeiture
 Once a match has been called, both teams should report immediately to the designated table. If a team has not reported to the table within three minutes, they should be recalled. A team, upon being recalled, must report immediately to the table in order to stop the forfeiture process.
 
 15.1 Penalty for second and subsequent recalls is forfeiture of a game.
